@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-image-leandro",
+  "version": "1.0.0",
+  "description": "nodejs image leandro",
+  "author": "leandromatpereira@hotmail.com",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
