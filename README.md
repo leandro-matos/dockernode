@@ -12,4 +12,4 @@ The dockerfile has the information about the image we are downloading from docke
 
 Access `localhost:8080` in your machine and you should see a Hello World message
 
-#### Image: https://hub.docker.com/repository/docker/leandromatpereira/nodejs-image-leandro
+#### Image: https://hub.docker.com/r/leandromatpereira/nodejs-image-leandro
